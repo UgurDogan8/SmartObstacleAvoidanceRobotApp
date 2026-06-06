@@ -1,9 +1,5 @@
 # Akıllı Engelden Kaçan Robot Kontrol Uygulaması (Smart Obstacle Avoidance Robot)
 
-<div align="center">
-  <img src="images/robot_cover.png" alt="Robot Cover" width="800"/>
-</div>
-
 ## Proje Amacı
 Bu projenin amacı, Arduino Nano mikrodenetleyicisi tabanlı otonom ve manuel olarak kontrol edilebilen bir mobil robot aracın, Android işletim sistemli bir mobil cihaz üzerinden HC-05 Bluetooth modülü aracılığıyla kablosuz olarak kontrol edilmesini ve izlenmesini sağlamaktır. Sistem, kullanıcının araca uzaktan manuel sürüş komutları göndermesine, otonom engelden kaçma modunu devreye almasına ve araçtan gelen anlık telemetri (engel mesafesi vb.) verilerini görüntülemesine olanak tanır.
 
@@ -67,11 +63,6 @@ Uygulamanın Bluetooth donanımına erişebilmesi ve iletişim kurabilmesi için
 5. Mobil uygulamayı başlatın, ekrandaki "Bağlan" (Connect) butonuna basın ve açılan listeden eşleştirdiğiniz HC-05 cihazını seçerek veri iletişimini başlatın.
 
 ## Uygulama Ekranları
-
-<div align="center">
-  <img src="images/app_interface.png" alt="App Interface" width="400"/>
-</div>
-
 1. **Bağlantı ve Cihaz Seçim Ekranı:** Kullanıcının daha önceden eşleştirilmiş Bluetooth cihazlarını listeleyip, robota (HC-05'e) bağlandığı arayüz.
 2. **Ana Kontrol Paneli:**
    - **Yönlendirme Pad'i / Butonları:** İleri, Geri, Sağ, Sol ve Dur komutlarının gönderildiği buton grubu.
@@ -101,12 +92,9 @@ Projenin doğrulama süreçleri aşağıdaki adımları kapsar:
 - **Minimum SDK (Mobil):** API 24 (Android 7.0)
 - **Hedef SDK (Mobil):** API 34 (Android 14)
 
-## Katkı ve Ekip Görev Paylaşımı
-*Not: Bu bölüm proje üyelerinin gerçek görev dağılımına göre doldurulmalıdır.*
+## Geliştirici
 
-- **Uğur DOĞAN - 230601021:** Android mobil uygulamasının UI (Kullanıcı Arayüzü) tasarımı, Bluetooth bağlantı yöneticisinin geliştirilmesi, uygulamanın test edilmesi.
-- **[Öğrenci 2 Adı Soyadı - Öğrenci No]:** Arduino mikrodenetleyicisi için C++ kodlarının yazılması, gelen Bluetooth komutlarının işlenmesi (Parser), motor kontrol algoritmalarının oluşturulması.
-- **[Öğrenci 3 Adı Soyadı - Öğrenci No]:** Elektronik donanımların lehimlenmesi ve montajı, ultrasonik sensör ve motor sürücü entegrasyonu, genel sistemin kalibrasyonu ve saha testlerinin gerçekleştirilmesi.
+- **Uğur DOĞAN - 230601021:** Mobil uygulamanın ve donanımın tüm geliştirme aşamaları.
 
 ## Entegrasyon Testi (Test Checklist)
 
