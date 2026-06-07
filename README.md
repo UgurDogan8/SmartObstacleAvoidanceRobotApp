@@ -94,7 +94,7 @@ Projenin doğrulama süreçleri aşağıdaki adımları kapsar:
 
 ## Geliştirici
 
-- **Uğur DOĞAN - 230601021:** Mobil uygulamanın ve donanımın tüm geliştirme aşamaları.
+- **Uğur DOĞAN:** Mobil uygulama geliştirmesi.
 
 ## Entegrasyon Testi (Test Checklist)
 
