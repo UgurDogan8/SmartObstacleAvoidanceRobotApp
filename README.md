@@ -92,7 +92,7 @@ Projenin doğrulama süreçleri aşağıdaki adımları kapsar:
 - **Minimum SDK (Mobil):** API 24 (Android 7.0)
 - **Hedef SDK (Mobil):** API 34 (Android 14)
 
-## Geliştirici
+## Geliştiriciler
 
 - **Uğur DOĞAN:** Mobil uygulama geliştirmesi.
 - **Ömer Arda BÜYÜKASLAN:** Gömülü yazılım ve donanım tasarımı.
