@@ -14,3 +14,8 @@
 .cxx
 local.properties
 /app/build/
+
+# Arduino
+arduino/.build/
+arduino/*.elf
+arduino/*.hex
