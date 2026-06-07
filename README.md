@@ -95,7 +95,7 @@ Projenin doğrulama süreçleri aşağıdaki adımları kapsar:
 ## Geliştirici
 
 - **Uğur DOĞAN:** Mobil uygulama geliştirmesi.
-
+- **Ömer Arda BÜYÜKASLAN:** Gömülü yazılım ve donanım tasarımı.
 ## Entegrasyon Testi (Test Checklist)
 
 Aşağıdaki adımları uygulayarak uygulamanın ve donanımın doğru entegre olduğunu doğrulayabilirsiniz. Testleri yapmadan önce donanımınızın açık ve HC-05 modülünün güce bağlı olduğundan emin olun.
